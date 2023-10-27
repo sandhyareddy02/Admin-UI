@@ -1,0 +1,6 @@
+body {
+  margin: 1;
+  font-family: -apple-system, "Segoe UI", "Fira Sans", sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}

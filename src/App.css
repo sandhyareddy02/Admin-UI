@@ -1,0 +1,14 @@
+/* App styles */
+.App {
+  text-align: center;
+  font-family: "Inter", sans-serif;
+  font-size: 1.1em;
+}
+
+/* Search input styles */
+.search {
+  width: 90vw;
+  padding: 2vh 0 2vh 2vw;
+  margin-top: 1vh;
+  margin-bottom: 1vh;
+}
